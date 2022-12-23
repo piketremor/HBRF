@@ -1,0 +1,3224 @@
+
+  
+    
+      uid=HBR,o=EDI,dc=edirepository,dc=org
+      all
+    
+    
+      public
+      read
+    
+  
+  
+    doi:10.6073/pasta/65b1f9e0111c189c68bc82083112fdebHubbard Brook Experimental Forest: Valleywide Plot Tree and Sapling Inventory – 1995, 2005, 2015
+    
+      John Battles
+      University of California, Berkeley
+      jbattles@berkeley.edu
+      https://orcid.org/0000-0001-7124-7893
+    
+    
+      Natalie Cleavitt
+      Cornell University
+      nlc4@cornell.ed
+      https://orcid.org/0000-0003-0425-2486
+    
+    
+      Timothy Fahey
+      Cornell University
+      tjf5@cornell.edu
+      https://orcid.org/0000-0003-1283-1162
+    
+    2022-03-01
+    
+      
+  The valley-wide plots are a grid of 431 sites along fifteen N–S
+  transects established at 500-m intervals spanning the entire Hubbard
+  Brook Valley. The plot network was designed by Paul Schwarz for
+  spatial analysis of tree species distribution patterns within the
+  valley. Multiple above- and below-ground attributes have been measured
+  on these plots. This dataset includes forest inventory data at 10 year
+  intervals, for 1995, 2005, and 2015. The full survey takes three
+  seasons to complete, with the datatable listing the exact measurement
+  interval for each tree.
+
+      
+  Data are included for both trees and saplings on 371 core plots (all
+  surveys) and 60 densified plots (1998, 2008).
+
+      
+  Locations of plots in this study can be found in the following
+  dataset:
+
+      
+  Hubbard Brook Experimental Forest Valleywide Plots: GIS Shapefile
+  (2022.)
+
+      
+  https://doi.org/10.6073/pasta/440b176372e0cdeb341731aea816b67c
+
+      
+  These data were gathered as part of the Hubbard Brook Ecosystem Study
+  (HBES). The HBES is a collaborative effort at the Hubbard Brook
+  Experimental Forest, which is operated and maintained by the USDA
+  Forest Service, Northern Research Station.
+
+      
+  These data have been used in a number of publications including:
+
+      
+  Schwarz, P.A., Fahey, T.J., Martin, C.W., Siccama, T.G., and Bailey,
+  A. 2001. Structure and composition of three northern hardwood–conifer
+  forests with differing disturbance histories. For. Ecol. Manage.
+  144(1–3): 201–212. doi:10.1016/S0378-1127(00)00371-6.
+
+      
+  Schwarz, P.A., Fahey, T.J., and McCulloch, C.E. 2003. Factors
+  controlling spatial variation of tree species abundance in a forested
+  landscape. Ecology, 84(7): 1862–1878.
+  doi:10.1890/0012-9658(2003)084[1862:FCSVOT]2.0.CO;2.
+
+      
+  van Doorn, N.S., Battles, J.J., Fahey, T.J., Siccama, T.G., and
+  Schwarz, P.A. 2011. Links between biomass and tree demography in a
+  northern hardwood forest: a decade of stability and change in Hubbard
+  Brook Valley, New Hampshire. Can. J. For. Res.
+  <emphasis role="strong">41</emphasis>(7): 1369–1379.
+  doi:10.1139/X11-063.
+
+      
+  Cleavitt, NL; AB Clyne and TJ Fahey. 2019. Epiphytic macrolichen
+  patterns along an elevation gradient in the White Mountain National
+  Forest, New Hampshire. J. Torrey Bot. Soc.
+  146(1): 8-17.
+      
+      
+  Cleavitt, NL; Battles, JJ, Fahey, TJ, and Blum, J. 2014. Determinants
+  of survival over seven years for a natural cohort of sugar maple
+  seedlings in a northern hardwood forest. Can. J. For.
+  Res.44 (9): 1112-1121.
+
+    
+    
+      populations
+      primary production
+      disturbance patterns
+      LTER Core Research Area
+    
+    
+      ecosystems
+      forests
+      watersheds
+      Plant biomass
+      diameter breast height
+      inventories
+      trees
+      vegetation
+      LTER Controlled Vocabulary
+    
+    
+      HBR
+      Hubbard Brook LTER
+      Hubbard Brook Experimental Forest
+      Hubbard Brook Ecosystem Study
+      HBES
+      HBEF
+      New Hampshire
+      NH
+      White Mountain National Forest
+      HBES Vocabulary
+    
+    
+      biota
+      climatologyMeteorologyAtmosphere
+      ISO 19115 Topic Category
+    
+    
+      Climate change
+      Climate change effects
+      Ecology, Ecosystems, & Environment
+      National Research & Development Taxonomy
+    
+    
+      This information is released under the Creative Commons license - Attribution - CC BY (https://creativecommons.org/licenses/by/4.0/). The consumer of these data ("Data User" herein) is required to cite it appropriately in any publication that results from its use. The Data User should realize that these data may be actively used by others for ongoing research and that coordination may be necessary to prevent duplicate publication. The Data User is urged to contact the authors of these data if any questions about methodology or results occur. Where appropriate, the Data User is encouraged to consider collaboration or co-authorship with the authors. The Data User should realize that misinterpretation of data may occur if used out of context of the original study. While substantial efforts are made to ensure the accuracy of data and associated documentation, complete accuracy of data sets cannot be guaranteed. All data are made available "as is." The Data User should be aware, however, that data are updated periodically and it is the responsibility of the Data User to check for new versions of the data. The data authors and the repository where these data were obtained shall not be liable for damages resulting from any use or misinterpretation of the data. Thank you.
+
+    
+    https://doi.org/10.6073/pasta/65b1f9e0111c189c68bc82083112fdeb
+      
+        Hubbard Brook Experimental Forest
+        
+          -71.8062
+          -71.7022
+          43.959
+          43.914
+        
+      
+      
+        
+          
+            1995-06-01
+          
+          
+            2016-09-30
+          
+        
+      
+    
+    
+      http://purl.obolibrary.org/obo/IAO_0000136
+      http://purl.dataone.org/odo/ECSO_00000547
+    
+    
+      ongoing
+    
+    
+      Hubbard Brook Ecosystem Study
+      hbr-im@lternet.edu
+    
+    Environmental Data Initiativeinfo@environmentaldatainitiative.orghttps://environmentaldatainitiative.org0330j0z60Environmental Data Initiative
+      
+        
+          The methods for the collection of these data are provided in 2 pdf files in this data package.
+
+        
+      
+    
+    
+      Long-term Ecological Research (LTER) at the Hubbard Brook Experimental Forest (1992)
+      
+        Timothy Fahey
+        Cornell University
+        tjf5@cornell.edu
+        https://orcid.org/0000-0003-1283-1162
+        Principal Investigator
+      
+      National Science Foundation (NSF) 9211768
+      
+        LTER: Hubbard Brook Experimental Forest (1998)
+        
+          Timothy Fahey
+          Cornell University
+          tjf5@cornell.edu
+          https://orcid.org/0000-0003-1283-1162
+          Principal Investigator
+        
+        National Science Foundation (NSF) 9810221
+      
+      
+        Long-Term Ecological Research (LTER) at Hubbard Brook Experimental Forest (HBR-LTER) (2005)
+        
+          Timothy Fahey
+          Cornell University
+          tjf5@cornell.edu
+          https://orcid.org/0000-0003-1283-1162
+          Principal Investigator
+        
+        National Science Foundation (NSF) 0423259
+      
+      
+        Long-Term Ecological Research at Hubbard Brook Experimental Forest (2010)
+        
+          Timothy Fahey
+          Cornell University
+          tjf5@cornell.edu
+          https://orcid.org/0000-0003-1283-1162
+          Principal Investigator
+        
+        National Science Foundation (NSF) 1114804
+      
+      
+        LTER: Long Term Ecological Research at the Hubbard Brook Experimental Forest (2016)
+        
+          Peter Groffman
+          Cary Institute of Ecosystem Studies
+          groffmanp@caryinstitute.org
+          https://orcid.org/0000-0001-8371-6255
+          Principal Investigator
+        
+        National Science Foundation (NSF) 1637685
+      
+    
+    
+      HubbardBrook_ValleywideInventory_PlotInfo
+      Hubbard Brook valleywide plot information
+      
+        HubbardBrook_ValleywideInventory_PlotInfo.csv
+        41678
+        9511e2c9a4209c4d4a1c55a7094616bc
+        
+          
+            1
+            \n
+            column
+            
+              ,
+              "
+            
+          
+        
+        
+          
+            https://pasta.lternet.edu/package/data/eml/knb-lter-hbr/125/6/d014c55d2589a1fc2737ad0011e2b376
+          
+        
+      
+      
+        
+          PlotTag
+          unique plot id
+          string
+          
+            
+              
+                
+                  unique plot id
+                
+              
+            
+          
+        
+        
+          PlotGrid
+          key that identifies plots on main grid (CORE) and plots that are part of densified network. Core grid: 500 m along slope; 100 then 200 with elevation)
+          string
+          
+            
+              
+                
+                  
+                    Core
+                    Plot on the main grid
+                  
+                  
+                    Densified
+                    Plot as part of densified network
+                  
+                
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          UTM.Easting
+          UTM coord
+          float
+          
+            
+              
+                meter
+              
+              
+                natural
+                
+                  276000
+                  283000
+                
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          UTM.Northing
+          UTM coord
+          float
+          
+            
+              
+                meter
+              
+              
+                natural
+                
+                  4866300
+                  4871200
+                
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          Transect No.
+          numbered N-S transects
+          float
+          
+            
+              
+                number
+              
+              
+                natural
+                
+                  760
+                  830
+                
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          PlotRadiusm
+          Radius of plot in m. 12.62 m is standard; 10 m for high density plots
+          float
+          
+            
+              
+                meter
+              
+              
+                real
+                
+                  10
+                  12.62
+                
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          PlotAreaha
+          plot area in ha
+          float
+          
+            
+              
+                hectare
+              
+              
+                real
+                
+                  0.0314
+                  0.05
+                
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          Elevationm
+          elevation in m
+          float
+          
+            
+              
+                meter
+              
+              
+                natural
+                
+                  245
+                  910
+                
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          Aspectdeg
+          aspect in degrees
+          float
+          
+            
+              
+                degree
+              
+              
+                whole
+                
+                  0
+                  360
+                
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          Slopeper
+          slope in percent
+          float
+          
+            
+              
+                percent
+              
+              
+                real
+                
+                  0
+                  52.5754099925347
+                
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          FirstMeasured
+          Year first measured
+          date
+          
+            
+              YYYY
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          SecondMeasured
+          Year for second measure
+          date
+          
+            
+              YYYY
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          ThirdMeasured
+          Year for third measure
+          date
+          
+            
+              YYYY
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          Time9505yr
+          Time interval in years; first interval
+          float
+          
+            
+              
+                number
+              
+              
+                natural
+                
+                  8
+                  11
+                
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          Time0515yr
+          Time interval in years; second interval
+          float
+          
+            
+              
+                number
+              
+              
+                natural
+                
+                  10
+                  10
+                
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          ElevB
+          Elevation zone for biomass calculation
+          string
+          
+            
+              
+                
+                  
+                    L
+                    Elevation <630 m
+                  
+                  
+                    M
+                    Elevation 630-710 m
+                  
+                  
+                    H
+                    Elevation >710 m
+                  
+                
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          foresttype
+          forest type
+          string
+          
+            
+              
+                
+                  
+                    NH.hemlock
+                    mixed forest dominated by red maple, eastern hemlock and yellow birch
+                  
+                  
+                    NH.high
+                    mixed forest dominated by red spruce and yellow birch
+                  
+                  
+                    NH.wood
+                    northern hardwood forest dominated by sugar maple, American beech and yellow birch
+                  
+                  
+                    SF.firbirch
+                    mixed forest initially dominated by paper birch and balsam fir
+                  
+                  
+                    SF.spruce
+                    conifer forest dominated by red spruce
+                  
+                
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+      
+      431
+    
+    
+      HubbardBrook_ValleywideTreeInventory_1995-2005-2015
+      Hubbard Brook valleywide tree inventory – 1995, 2005, 2015
+      
+        HubbardBrook_ValleywideTreeInventory_1995-2005-2015.csv
+        1764208
+        182815c4b79e750cae34fd1d0c733273
+        
+          
+            1
+            \n
+            column
+            
+              ,
+              "
+            
+          
+        
+        
+          
+            https://pasta.lternet.edu/package/data/eml/knb-lter-hbr/125/6/1d026d20d9cd0b9dfa7947853e3db10f
+          
+        
+      
+      
+        http://purl.obolibrary.org/obo/IAO_0000136
+        http://purl.dataone.org/odo/ECSO_00000549
+      
+      
+        http://purl.obolibrary.org/obo/IAO_0000136
+        http://purl.dataone.org/odo/ECSO_00000547
+      
+      
+        
+          TreeID
+          Unique TreeID in database
+          string
+          
+            
+              
+                
+                  Unique TreeID in database
+                
+              
+            
+          
+        
+        
+          FirstObs
+          Sampling interval where the tree tree was first observed. Because of trees that were missed in earlier sampling intervals, andobserved later the time of first observation does not always correspond to year of recruitment. We backcast DBH of MISSED trees
+          string
+          
+            
+              
+                
+                  
+                    first
+                    tree first observed in first sampling cycle
+                  
+                  
+                    second
+                    tree first observed in second sampling cycle
+                  
+                  
+                    third
+                    tree first observed in third sampling cycle
+                  
+                
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          PlotTag
+          Unique PlotID
+          string
+          
+            
+              
+                
+                  Unique PlotID
+                
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          Tag_15_current
+          The current tree tag on the tree in the woods as of the 2015 sampling interval
+          string
+          
+            
+              
+                
+                  The current tree tag on the tree in the woods as of the 2015 sampling interval
+                
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          Species_BEST_15
+          Two letter species code of the final species assignment. Always defer to Nat Cleavitt checks
+          string
+          
+            
+              
+                
+                  
+                    SM
+                    Acer saccharum: Sugar Maple
+                  
+                  
+                    AB
+                    Fagus grandifolia: American Beech
+                  
+                  
+                    YB
+                    Betula alleghaniensis: Yellow Birch
+                  
+                  
+                    WA
+                    Fraxinus americana: White Ash
+                  
+                  
+                    MM
+                    Acer spicatum: Mountain Maple
+                  
+                  
+                    StM
+                    Acer pensylvanicum: Striped Maple
+                  
+                  
+                    PC
+                    Prunus pensylvanica: Pin Cherry
+                  
+                  
+                    CC
+                    Prunus virginiana: Chokecherry
+                  
+                  
+                    BF
+                    Abies balsamea: Balsam Fir
+                  
+                  
+                    RS
+                    Picea rubens: Red Spruce
+                  
+                  
+                    PB
+                    Betula papyrifera: Paper Birch
+                  
+                  
+                    MA
+                    Sorbus americana: Mountain Ash
+                  
+                  
+                    RM
+                    Acer rubrum: Red Maple
+                  
+                  
+                    EH
+                    Tsuga canadensis: Eastern Hemlock
+                  
+                  
+                    GB
+                    Betula populifolia: Grey Birch
+                  
+                  
+                    BA
+                    Populus grandidentata: Bigtooth Aspen
+                  
+                  
+                    QA
+                    Populus tremuloides: Quaking Aspen
+                  
+                  
+                    JB
+                    Amelanchier spp.: Juneberry spp.
+                  
+                  
+                    BC
+                    Prunus serotina: Black Cherry
+                  
+                  
+                    BW
+                    Tilia americana: American Basswood
+                  
+                  
+                    BLA
+                    Fraxinus nigra: Black Ash
+                  
+                  
+                    SAPU
+                    Sambucus spp.: Red Elderberry
+                  
+                  
+                    VIAL
+                    Viburnum lantanoides: Hobblebush
+                  
+                  
+                    BECO
+                    Betula cordifolia: Mountain paper Birch
+                  
+                
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          DBH_95
+          DBH of tree in cm in first interval
+          float
+          
+            
+              
+                centimeter
+              
+              
+                real
+                
+                  9.2
+                  117.8
+                
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          CrownStatus_95
+          Crown status of tree in first interval
+          string
+          
+            
+              
+                
+                  
+                    D
+                    dominant
+                  
+                  
+                    C
+                    co-dominant
+                  
+                  
+                    I
+                    intermediate
+                  
+                  
+                    S
+                    suppressed
+                  
+                
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          TreeStatus_95
+          Tree status of tree in first interval
+          string
+          
+            
+              
+                
+                  
+                    1
+                    alive, healthy
+                  
+                  
+                    2
+                    alive, sick
+                  
+                  
+                    3
+                    alive,dying
+                  
+                  
+                    4
+                    dead, standing
+                  
+                  
+                    5
+                    dead, standing without significant degredation and decay
+                  
+                  
+                    6
+                    dead and down
+                  
+                
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          DBH_05
+          DBH of tree in cm in second interval
+          float
+          
+            
+              
+                centimeter
+              
+              
+                real
+                
+                  8.9
+                  119
+                
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          CrownStatus_05
+          Crown status of tree in second interval
+          string
+          
+            
+              
+                
+                  
+                    D
+                    dominant
+                  
+                  
+                    C
+                    co-dominant
+                  
+                  
+                    I
+                    intermediate
+                  
+                  
+                    S
+                    suppressed
+                  
+                
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          TreeStatus_05
+          Tree status of tree in second interval
+          string
+          
+            
+              
+                
+                  
+                    1
+                    alive, healthy
+                  
+                  
+                    2
+                    alive, sick
+                  
+                  
+                    3
+                    alive,dying
+                  
+                  
+                    4
+                    dead, standing
+                  
+                  
+                    5
+                    dead, standing without significant degredation and decay
+                  
+                  
+                    6
+                    dead and down
+                  
+                
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          DBH_15
+          DBH of tree in cm in third interval
+          float
+          
+            
+              
+                centimeter
+              
+              
+                real
+                
+                  7.5
+                  118
+                
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          CrownStatus_15
+          Crown status of tree in third interval
+          string
+          
+            
+              
+                
+                  
+                    D
+                    dominant
+                  
+                  
+                    C
+                    co-dominant
+                  
+                  
+                    I
+                    intermediate
+                  
+                  
+                    S
+                    suppressed
+                  
+                
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          TreeStatus_15
+          Tree status of tree in third interval
+          string
+          
+            
+              
+                
+                  
+                    1
+                    alive, healthy
+                  
+                  
+                    2
+                    alive, sick
+                  
+                  
+                    3
+                    alive,dying
+                  
+                  
+                    4
+                    dead, standing
+                  
+                  
+                    5
+                    dead, standing without significant degredation and decay
+                  
+                  
+                    6
+                    dead and down
+                  
+                
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          BBD_15
+          Assessment of beech bark disease progression in 2015 (third interval)
+          string
+          
+            
+              
+                
+                  
+                    0
+                    no signs of BBD, bark smooth
+                  
+                  
+                    1
+                    BBD present, but does not affect DBH measurement; lower bole mostly uncankered
+                  
+                  
+                    2
+                    BBD present:1-3 cankers affect DBH measurement
+                  
+                  
+                    3
+                    BBD present: 3+ cankers distorts DBH measurement
+                  
+                  
+                    3+
+                    synonymous with 4 but initially used in 2015
+                  
+                  
+                    4
+                    Cankers have coalesced and trunk is completely disfigured usually with canopy dieback
+                  
+                  
+                    NF1
+                    code not BBD related
+                  
+                  
+                    NF2
+                    code not BBD related
+                  
+                  
+                    NF3
+                    code not BBD related
+                  
+                
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          Time9505yr
+          Time in years between first and second inventory; general 10 but varies from 8 to 11
+          float
+          
+            
+              
+                number
+              
+              
+                natural
+                
+                  8
+                  11
+                
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          Time0515yr
+          Time in years between second and third inventory; always 10
+          float
+          
+            
+              
+                number
+              
+              
+                natural
+                
+                  10
+                  10
+                
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          PlotAreaha
+          Area of plot in ha
+          float
+          
+            
+              
+                hectare
+              
+              
+                real
+                
+                  0.0314
+                  0.05
+                
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          ElevB
+          Elevation zone used for biomass calculation
+          string
+          
+            
+              
+                
+                  
+                    L
+                    Elevation <630 m
+                  
+                  
+                    M
+                    Elevation 630-710 m
+                  
+                  
+                    H
+                    Elevation >710 m
+                  
+                
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          Species4
+          Species in four letter code
+          string
+          
+            
+              
+                
+                  
+                    ACSA
+                    Acer saccharum: Sugar Maple
+                  
+                  
+                    FAGR
+                    Fagus grandifolia: American Beech
+                  
+                  
+                    BEAL
+                    Betula alleghaniensis: Yellow Birch
+                  
+                  
+                    FRAM
+                    Fraxinus americana: White Ash
+                  
+                  
+                    ACSP
+                    Acer spicatum: Mountain Maple
+                  
+                  
+                    ACPE
+                    Acer pensylvanicum: Striped Maple
+                  
+                  
+                    PRPE
+                    Prunus pensylvanica: Pin Cherry
+                  
+                  
+                    PRVI
+                    Prunus virginiana: Chokecherry
+                  
+                  
+                    ABBA
+                    Abies balsamea: Balsam Fir
+                  
+                  
+                    PIRU
+                    Picea rubens: Red Spruce
+                  
+                  
+                    BEPA
+                    Betula papyrifera: Paper Birch
+                  
+                  
+                    SOAM
+                    Sorbus americana: Mountain Ash
+                  
+                  
+                    ACRU
+                    Acer rubrum: Red Maple
+                  
+                  
+                    TSCA
+                    Tsuga canadensis: Eastern Hemlock
+                  
+                  
+                    BEPO
+                    Betula populifolia: Grey Birch
+                  
+                  
+                    POGR
+                    Populus grandidentata: Bigtooth Aspen
+                  
+                  
+                    POTR
+                    Populus tremuloides: Quaking Aspen
+                  
+                  
+                    AMSP
+                    Amelanchier spp.: Juneberry spp.
+                  
+                  
+                    PRSE
+                    Prunus serotina: Black Cherry
+                  
+                  
+                    TIAM
+                    Tilia americana: American Basswood
+                  
+                  
+                    FRNI
+                    Fraxinus nigra: Black Ash
+                  
+                  
+                    SAPU
+                    Sambucus spp.: Red Elderberry
+                  
+                  
+                    VIAL
+                    Viburnum lantanoides: Hobblebush
+                  
+                  
+                    BECO
+                    Betula cordifolia: Mountain paper Birch
+                  
+                
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          SppCommon
+          Species in common name
+          string
+          
+            
+              
+                
+                  Species in common name
+                
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          Species2
+          Species in old two letter code; Same as Species_BEST_15
+          string
+          
+            
+              
+                
+                  
+                    SM
+                    Acer saccharum: Sugar Maple
+                  
+                  
+                    AB
+                    Fagus grandifolia: American Beech
+                  
+                  
+                    YB
+                    Betula alleghaniensis: Yellow Birch
+                  
+                  
+                    WA
+                    Fraxinus americana: White Ash
+                  
+                  
+                    MM
+                    Acer spicatum: Mountain Maple
+                  
+                  
+                    StM
+                    Acer pensylvanicum: Striped Maple
+                  
+                  
+                    PC
+                    Prunus pensylvanica: Pin Cherry
+                  
+                  
+                    CC
+                    Prunus virginiana: Chokecherry
+                  
+                  
+                    BF
+                    Abies balsamea: Balsam Fir
+                  
+                  
+                    RS
+                    Picea rubens: Red Spruce
+                  
+                  
+                    PB
+                    Betula papyrifera: Paper Birch
+                  
+                  
+                    MA
+                    Sorbus americana: Mountain Ash
+                  
+                  
+                    RM
+                    Acer rubrum: Red Maple
+                  
+                  
+                    EH
+                    Tsuga canadensis: Eastern Hemlock
+                  
+                  
+                    GB
+                    Betula populifolia: Grey Birch
+                  
+                  
+                    BA
+                    Populus grandidentata: Bigtooth Aspen
+                  
+                  
+                    QA
+                    Populus tremuloides: Quaking Aspen
+                  
+                  
+                    JB
+                    Amelanchier spp.: Juneberry spp.
+                  
+                  
+                    BC
+                    Prunus serotina: Black Cherry
+                  
+                  
+                    BW
+                    Tilia americana: American Basswood
+                  
+                  
+                    BLA
+                    Fraxinus nigra: Black Ash
+                  
+                  
+                    SAPU
+                    Sambucus spp.: Red Elderberry
+                  
+                  
+                    VIAL
+                    Viburnum lantanoides: Hobblebush
+                  
+                  
+                    BECO
+                    Betula cordifolia: Mountain paper Birch
+                  
+                
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          Type
+          Designates whether species is a hardwood or conifer species
+          string
+          
+            
+              
+                
+                  
+                    Hardwood
+                    Hardwood species class
+                  
+                  
+                    Conifer
+                    Conifer species class
+                  
+                
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          BIG5
+          Desingates five most abundant tree species:ABBA,ACSA, BEAL, FAGR, PIRU
+          string
+          
+            
+              
+                
+                  
+                    0
+                    does not belong to the five most common species; less frequent species
+                  
+                  
+                    1
+                    belongs to the five most common species: Americn beech, sugar maple, yellow birch, red spruce and balsam fir
+                  
+                
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          YrRecruit
+          Interval tree was recruited
+          date
+          
+            
+              YYYY
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+      
+      16569
+    
+    
+      HubbardBrook_ValleywideSaplingInventory_1995
+      Hubbard Brook valleywide sapling inventory – 1995
+      
+        HubbardBrook_ValleywideSaplingInventory_1995.csv
+        1145082
+        1777551282833c7d912e5ca21684b7e3
+        
+          
+            1
+            \n
+            column
+            
+              ,
+              "
+            
+          
+        
+        
+          
+            https://pasta.lternet.edu/package/data/eml/knb-lter-hbr/125/6/73df5dcd0acfc408f57e2eaa537cda93
+          
+        
+      
+      
+        http://purl.obolibrary.org/obo/IAO_0000136
+        http://purl.dataone.org/odo/ECSO_00000549
+      
+      
+        http://purl.obolibrary.org/obo/IAO_0000136
+        http://purl.dataone.org/odo/ECSO_00000547
+      
+      
+        
+          PlotTag
+          unique plot id
+          string
+          
+            
+              
+                
+                  unique plot id
+                
+              
+            
+          
+        
+        
+          Species4
+          species code
+          string
+          
+            
+              
+                
+                  
+                    ACSA
+                    Acer saccharum: Sugar Maple
+                  
+                  
+                    FAGR
+                    Fagus grandifolia: American Beech
+                  
+                  
+                    BEAL
+                    Betula alleghaniensis: Yellow Birch
+                  
+                  
+                    FRAM
+                    Fraxinus americana: White Ash
+                  
+                  
+                    ACSP
+                    Acer spicatum: Mountain Maple
+                  
+                  
+                    ACPE
+                    Acer pensylvanicum: Striped Maple
+                  
+                  
+                    PRPE
+                    Prunus pensylvanica: Pin Cherry
+                  
+                  
+                    PRVI
+                    Prunus virginiana: Chokecherry
+                  
+                  
+                    ABBA
+                    Abies balsamea: Balsam Fir
+                  
+                  
+                    PIRU
+                    Picea rubens: Red Spruce
+                  
+                  
+                    BEPA
+                    Betula papyrifera: Paper Birch
+                  
+                  
+                    SOAM
+                    Sorbus americana: Mountain Ash
+                  
+                  
+                    ACRU
+                    Acer rubrum: Red Maple
+                  
+                  
+                    TSCA
+                    Tsuga canadensis: Eastern Hemlock
+                  
+                  
+                    BEPO
+                    Betula populifolia: Grey Birch
+                  
+                  
+                    POGR
+                    Populus grandidentata: Bigtooth Aspen
+                  
+                  
+                    POTR
+                    Populus tremuloides: Quaking Aspen
+                  
+                  
+                    AMSP
+                    Amelanchier spp.: Juneberry spp.
+                  
+                  
+                    PRSE
+                    Prunus serotina: Black Cherry
+                  
+                  
+                    TIAM
+                    Tilia americana: American Basswood
+                  
+                  
+                    FRNI
+                    Fraxinus nigra: Black Ash
+                  
+                  
+                    SAPU
+                    Sambucus spp.: Red Elderberry
+                  
+                  
+                    VIAL
+                    Viburnum lantanoides: Hobblebush
+                  
+                  
+                    BECO
+                    Betula cordifolia: Mountain paper Birch
+                  
+                
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          SppCommon
+          species common name
+          string
+          
+            
+              
+                
+                  species common name
+                
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          DBHClass
+          DBH size class in cm range
+          string
+          
+            
+              
+                
+                  
+                    0to2cm
+                    0 to 2 cm
+                  
+                  
+                    2to4cm
+                    2 to 4 cm
+                  
+                  
+                    4to6cm
+                    4 to 6 cm
+                  
+                  
+                    6to8cm
+                    6 to 8 cm
+                  
+                  
+                    8to10cm
+                    8 to 10cm
+                  
+                
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          DBHmid
+          midpoint of DBH size class in cm
+          float
+          
+            
+              
+                centimeter
+              
+              
+                natural
+                
+                  1
+                  9
+                
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          StemCount
+          Number of stems
+          float
+          
+            
+              
+                number
+              
+              
+                whole
+                
+                  0
+                  56
+                
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          TotalSaplings
+          Total number of saplings
+          float
+          
+            
+              
+                number
+              
+              
+                whole
+                
+                  0
+                  61
+                
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          TotalSeedlings
+          Total number of seedlings
+          float
+          
+            
+              
+                number
+              
+              
+                whole
+                
+                  0
+                  92
+                
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          SapAreaha
+          Sapling sampling area
+          float
+          
+            
+              
+                hectare
+              
+              
+                real
+                
+                  0.0024
+                  0.0024
+                
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          Species2
+          Species code
+          string
+          
+            
+              
+                
+                  
+                    SM
+                    Acer saccharum: Sugar Maple
+                  
+                  
+                    AB
+                    Fagus grandifolia: American Beech
+                  
+                  
+                    YB
+                    Betula alleghaniensis: Yellow Birch
+                  
+                  
+                    WA
+                    Fraxinus americana: White Ash
+                  
+                  
+                    MM
+                    Acer spicatum: Mountain Maple
+                  
+                  
+                    StM
+                    Acer pensylvanicum: Striped Maple
+                  
+                  
+                    PC
+                    Prunus pensylvanica: Pin Cherry
+                  
+                  
+                    CC
+                    Prunus virginiana: Chokecherry
+                  
+                  
+                    BF
+                    Abies balsamea: Balsam Fir
+                  
+                  
+                    RS
+                    Picea rubens: Red Spruce
+                  
+                  
+                    PB
+                    Betula papyrifera: Paper Birch
+                  
+                  
+                    MA
+                    Sorbus americana: Mountain Ash
+                  
+                  
+                    RM
+                    Acer rubrum: Red Maple
+                  
+                  
+                    EH
+                    Tsuga canadensis: Eastern Hemlock
+                  
+                  
+                    GB
+                    Betula populifolia: Grey Birch
+                  
+                  
+                    BA
+                    Populus grandidentata: Bigtooth Aspen
+                  
+                  
+                    QA
+                    Populus tremuloides: Quaking Aspen
+                  
+                  
+                    JB
+                    Amelanchier spp.: Juneberry spp.
+                  
+                  
+                    BC
+                    Prunus serotina: Black Cherry
+                  
+                  
+                    BW
+                    Tilia americana: American Basswood
+                  
+                  
+                    BLA
+                    Fraxinus nigra: Black Ash
+                  
+                  
+                    SAPU
+                    Sambucus spp.: Red Elderberry
+                  
+                  
+                    VIAL
+                    Viburnum lantanoides: Hobblebush
+                  
+                  
+                    BECO
+                    Betula cordifolia: Mountain paper Birch
+                  
+                
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          Year
+          Year of observation
+          date
+          
+            
+              YYYY
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          TreeStatus
+          tree status
+          string
+          
+            
+              
+                
+                  
+                    1
+                    alive, healthy
+                  
+                  
+                    2
+                    alive, sick
+                  
+                  
+                    3
+                    alive,dying
+                  
+                  
+                    4
+                    dead, standing
+                  
+                  
+                    5
+                    dead, standing without significant degredation and decay
+                  
+                  
+                    6
+                    dead and down
+                  
+                
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          PlotGrid
+          key that identifies plots on main grid (CORE) and plots that are part of densified network. Core grid: 500 m along slope; 100 then 200 with elevation)
+          string
+          
+            
+              
+                
+                  
+                    Core
+                    Plot on the main grid
+                  
+                  
+                    Densified
+                    Plot as part of densified network
+                  
+                
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          UTM.Easting
+          UTM coord
+          float
+          
+            
+              
+                meter
+              
+              
+                natural
+                
+                  276000
+                  283000
+                
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          UTM.Northing
+          UTM coord
+          float
+          
+            
+              
+                meter
+              
+              
+                natural
+                
+                  4866300
+                  4871200
+                
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          Transect No.
+          numbered N-S transects
+          float
+          
+            
+              
+                number
+              
+              
+                natural
+                
+                  760
+                  830
+                
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          PlotRadiusm
+          Plot radius
+          float
+          
+            
+              
+                meter
+              
+              
+                real
+                
+                  10
+                  12.62
+                
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          PlotAreaha
+          Plot area
+          float
+          
+            
+              
+                hectare
+              
+              
+                real
+                
+                  0.0314
+                  0.05
+                
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          Elevationm
+          Plot elevation
+          float
+          
+            
+              
+                meter
+              
+              
+                natural
+                
+                  245
+                  910
+                
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          Aspectdeg
+          aspect in degrees
+          float
+          
+            
+              
+                degree
+              
+              
+                whole
+                
+                  0
+                  360
+                
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          Slopeper
+          slope in percent
+          float
+          
+            
+              
+                percent
+              
+              
+                real
+                
+                  0
+                  52.5754099925347
+                
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          FirstMeasured
+          Year first measured
+          date
+          
+            
+              YYYY
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          SecondMeasured
+          Year for second measure
+          date
+          
+            
+              YYYY
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          ThirdMeasured
+          Year for third measure
+          date
+          
+            
+              YYYY
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          Time9505yr
+          Time interval in years; first interval
+          float
+          
+            
+              
+                number
+              
+              
+                natural
+                
+                  8
+                  11
+                
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          Time0515yr
+          Time interval in years; second interval
+          float
+          
+            
+              
+                number
+              
+              
+                natural
+                
+                  10
+                  10
+                
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          ElevB
+          Elevation zone for biomass calculation
+          string
+          
+            
+              
+                
+                  
+                    L
+                    Elevation <630 m
+                  
+                  
+                    M
+                    Elevation 630-710 m
+                  
+                  
+                    H
+                    Elevation >710 m
+                  
+                
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          foresttype
+          forest type
+          string
+          
+            
+              
+                
+                  
+                    NH.hemlock
+                    mixed forest dominated by red maple, eastern hemlock and yellow birch
+                  
+                  
+                    NH.high
+                    mixed forest dominated by red spruce and yellow birch
+                  
+                  
+                    NH.wood
+                    northern hardwood forest dominated by sugar maple, American beech and yellow birch
+                  
+                  
+                    SF.firbirch
+                    mixed forest initially dominated by paper birch and balsam fir
+                  
+                  
+                    SF.spruce
+                    conifer forest dominated by red spruce
+                  
+                
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+      
+      7810
+    
+    
+      HubbardBrook_ValleywideSaplingInventory_2005-2015
+      Hubbard Brook valleywide sapling inventory – 2005, 2015
+      
+        HubbardBrook_ValleywideSaplingInventory_2005-2015.csv
+        898092
+        04bfb0c17ba18760556297e302ac5deb
+        
+          
+            1
+            \r\n
+            column
+            
+              ,
+              "
+            
+          
+        
+        
+          
+            https://pasta.lternet.edu/package/data/eml/knb-lter-hbr/125/6/edb6d461d920a8fb67c1affd36426761
+          
+        
+      
+      
+        http://purl.obolibrary.org/obo/IAO_0000136
+        http://purl.dataone.org/odo/ECSO_00000549
+      
+      
+        http://purl.obolibrary.org/obo/IAO_0000136
+        http://purl.dataone.org/odo/ECSO_00000547
+      
+      
+        
+          PlotTag
+          unique plot id
+          string
+          
+            
+              
+                
+                  unique plot id
+                
+              
+            
+          
+        
+        
+          Species4
+          species code
+          string
+          
+            
+              
+                
+                  
+                    ACSA
+                    Acer saccharum: Sugar Maple
+                  
+                  
+                    FAGR
+                    Fagus grandifolia: American Beech
+                  
+                  
+                    BEAL
+                    Betula alleghaniensis: Yellow Birch
+                  
+                  
+                    FRAM
+                    Fraxinus americana: White Ash
+                  
+                  
+                    ACSP
+                    Acer spicatum: Mountain Maple
+                  
+                  
+                    ACPE
+                    Acer pensylvanicum: Striped Maple
+                  
+                  
+                    PRPE
+                    Prunus pensylvanica: Pin Cherry
+                  
+                  
+                    PRVI
+                    Prunus virginiana: Chokecherry
+                  
+                  
+                    ABBA
+                    Abies balsamea: Balsam Fir
+                  
+                  
+                    PIRU
+                    Picea rubens: Red Spruce
+                  
+                  
+                    BEPA
+                    Betula papyrifera: Paper Birch
+                  
+                  
+                    SOAM
+                    Sorbus americana: Mountain Ash
+                  
+                  
+                    ACRU
+                    Acer rubrum: Red Maple
+                  
+                  
+                    TSCA
+                    Tsuga canadensis: Eastern Hemlock
+                  
+                  
+                    BEPO
+                    Betula populifolia: Grey Birch
+                  
+                  
+                    POGR
+                    Populus grandidentata: Bigtooth Aspen
+                  
+                  
+                    POTR
+                    Populus tremuloides: Quaking Aspen
+                  
+                  
+                    AMSP
+                    Amelanchier spp.: Juneberry spp.
+                  
+                  
+                    PRSE
+                    Prunus serotina: Black Cherry
+                  
+                  
+                    TIAM
+                    Tilia americana: American Basswood
+                  
+                  
+                    FRNI
+                    Fraxinus nigra: Black Ash
+                  
+                  
+                    SAPU
+                    Sambucus spp.: Red Elderberry
+                  
+                  
+                    VIAL
+                    Viburnum lantanoides: Hobblebush
+                  
+                  
+                    BECO
+                    Betula cordifolia: Mountain paper Birch
+                  
+                  
+                    XXXX
+                    No saplings present
+                  
+                
+              
+            
+          
+        
+        
+          SppCommon
+          species common name
+          string
+          
+            
+              
+                
+                  species common name
+                
+              
+            
+          
+        
+        
+          DBH
+          diameter breast height
+          float
+          
+            
+              
+                centimeter
+              
+              
+                real
+                
+                  2
+                  9.9
+                
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          CrownStatus
+          crown status
+          string
+          
+            
+              
+                
+                  
+                    D
+                    dominant
+                  
+                  
+                    C
+                    co-dominant
+                  
+                  
+                    I
+                    intermediate
+                  
+                  
+                    S
+                    suppressed
+                  
+                
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          TreeStatus
+          TreeStatus
+          string
+          
+            
+              
+                
+                  
+                    1
+                    alive, healthy
+                  
+                  
+                    2
+                    alive, sick
+                  
+                  
+                    3
+                    alive,dying
+                  
+                  
+                    4
+                    dead, standing
+                  
+                  
+                    5
+                    dead, standing without significant degredation and decay
+                  
+                  
+                    6
+                    dead and down
+                  
+                  
+                    NO SWEEPS
+                    Some of these entries are for plot with no saplings: p039, p063, p085, p229, p230, p301, p338, p370, p395.
+                  
+                
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          Year
+          Year of observation
+          date
+          
+            
+              YYYY
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          PlotGrid
+          key that identifies plots on main grid (CORE) and plots that are part of densified network. Core grid: 500 m along slope; 100 then 200 with elevation)
+          string
+          
+            
+              
+                
+                  
+                    Core
+                    Plot on the main grid
+                  
+                  
+                    Densified
+                    Plot as part of densified network
+                  
+                
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          UTM.Easting
+          UTM coord
+          float
+          
+            
+              
+                meter
+              
+              
+                natural
+                
+                  276000
+                  283000
+                
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          UTM.Northing
+          UTM coord
+          float
+          
+            
+              
+                meter
+              
+              
+                natural
+                
+                  4866300
+                  4871200
+                
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          Transect No.
+          numbered N-S transects
+          float
+          
+            
+              
+                number
+              
+              
+                natural
+                
+                  760
+                  830
+                
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          PlotRadiusm
+          Plot radius
+          float
+          
+            
+              
+                meter
+              
+              
+                real
+                
+                  10
+                  12.62
+                
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          PlotAreaha
+          Plot area
+          float
+          
+            
+              
+                hectare
+              
+              
+                real
+                
+                  0.0314
+                  0.05
+                
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          SapAreaha
+          Sapling sampling area
+          float
+          
+            
+              
+                hectare
+              
+              
+                real
+                
+                  0.004
+                  0.005048
+                
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          Elevationm
+          Plot elevation
+          float
+          
+            
+              
+                meter
+              
+              
+                natural
+                
+                  245
+                  910
+                
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          Aspectdeg
+          aspect in degrees
+          float
+          
+            
+              
+                degree
+              
+              
+                whole
+                
+                  0
+                  360
+                
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          Slopeper
+          slope in percent
+          float
+          
+            
+              
+                percent
+              
+              
+                real
+                
+                  0
+                  52.57540999
+                
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          FirstMeasured
+          Year first measured
+          date
+          
+            
+              YYYY
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          SecondMeasured
+          Year for second measure
+          date
+          
+            
+              YYYY
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          ThirdMeasured
+          Year for third measure
+          date
+          
+            
+              YYYY
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          Time9505yr
+          Time interval in years; first interval
+          float
+          
+            
+              
+                number
+              
+              
+                natural
+                
+                  8
+                  11
+                
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          Time0515yr
+          Time interval in years; second interval
+          float
+          
+            
+              
+                number
+              
+              
+                natural
+                
+                  10
+                  10
+                
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          ElevB
+          Elevation zone for biomass calculation
+          string
+          
+            
+              
+                
+                  
+                    L
+                    Elevation <630 m
+                  
+                  
+                    M
+                    Elevation 630-710 m
+                  
+                  
+                    H
+                    Elevation >710 m
+                  
+                
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+        
+          foresttype
+          forest type
+          string
+          
+            
+              
+                
+                  
+                    NH.hemlock
+                    mixed forest dominated by red maple, eastern hemlock and yellow birch
+                  
+                  
+                    NH.high
+                    mixed forest dominated by red spruce and yellow birch
+                  
+                  
+                    NH.wood
+                    northern hardwood forest dominated by sugar maple, American beech and yellow birch
+                  
+                  
+                    SF.firbirch
+                    mixed forest initially dominated by paper birch and balsam fir
+                  
+                  
+                    SF.spruce
+                    conifer forest dominated by red spruce
+                  
+                
+              
+            
+          
+          
+            NA
+            data not available
+          
+        
+      
+      6943
+    
+    
+      HubbardBrook_ValleywideInventoryProtocol_1995
+      Hubbard Brook valleywide inventory protocol – 1995
+      
+        HubbardBrook_ValleywideInventoryProtocol_1995.pdf
+        67540
+        aaffaff74aae2f11514a1d54fe3d67bb
+        
+          
+            application/pdf
+          
+        
+        
+          
+            https://pasta.lternet.edu/package/data/eml/knb-lter-hbr/125/6/eaa9af0a0c939cbda2c25d38710888b2
+          
+        
+      
+      unknown
+    
+    
+      HubbardBrook_ValleywideInventoryProtocol_2005-2015
+      Hubbard Brook valleywide inventory protocol – 2005, 2015
+      
+        HubbardBrook_ValleywideInventoryProtocol_2005-2015.pdf
+        141151
+        0545646b786fa206e0bb56585fa73cd3
+        
+          
+            application/pdf
+          
+        
+        
+          
+            https://pasta.lternet.edu/package/data/eml/knb-lter-hbr/125/6/8160823fa81b9fa09092851147f4f055
+          
+        
+      
+      unknown
+    
+  
+  
+    
+      http://purl.obolibrary.org/obo/IAO_0000136
+      http://purl.dataone.org/odo/ECSO_00000547
+    
+  

@@ -1,0 +1,10 @@
+Manifest file for knb-lter-hbr.125.6-4c9184f37cff01bcdc32dc486ec36961.zip created on Fri Dec 23 06:48:07 MST 2022
+HubbardBrook_ValleywideInventory_PlotInfo.csv (41678 bytes)
+HubbardBrook_ValleywideTreeInventory_1995-2005-2015.csv (1764208 bytes)
+HubbardBrook_ValleywideSaplingInventory_1995.csv (1145082 bytes)
+HubbardBrook_ValleywideSaplingInventory_2005-2015.csv (898092 bytes)
+HubbardBrook_ValleywideInventoryProtocol_1995.pdf (67540 bytes)
+HubbardBrook_ValleywideInventoryProtocol_2005-2015.pdf (141151 bytes)
+knb-lter-hbr.125.6.xml (136578 bytes)
+knb-lter-hbr.125.6.txt (70746 bytes)
+knb-lter-hbr.125.6.report.xml (122511 bytes)
